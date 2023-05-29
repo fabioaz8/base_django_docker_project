@@ -1,6 +1,6 @@
-/django_project/static/
-/django_project/media/
-/django_project/project/local_settings.py
+/djangoapp/static/
+/djangoapp/media/
+/djangoapp/project/local_settings.py
 gunicorn-error-log
 __localcode
 /data/
